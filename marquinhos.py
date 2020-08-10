@@ -6,7 +6,7 @@ from telepot.loop import MessageLoop
 import random
 import datetime
 
-bot = telepot.Bot('1379433917:AAHMoDATPtbrL92zipxboTp5n4UtNkSWFA4')
+bot = telepot.Bot('botTokenWithMe')
 
 print('hey')
 print(bot.getMe())
