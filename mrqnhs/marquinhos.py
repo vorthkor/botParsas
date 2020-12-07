@@ -8,7 +8,7 @@ import datetime
 
 bot = telepot.Bot('botTokenWithMe')
 
-print('hey')
+print('heyModaFocas')
 print(bot.getMe())
 
 def handle(msg):
